@@ -10,7 +10,8 @@ This project develops a book recommendation system for an online book-selling pl
 
 To run registration interface:
 ```sh
-streamlit run 'user_interface_database/main.py' --client.showSidebarNavigation false   
+streamlit run 'user_interface_database/main.py' --client.showSidebarNavigation false        
+'''
 
 To run home page interface:
 ```sh
