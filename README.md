@@ -11,5 +11,7 @@ This project develops a book recommendation system for an online book-selling pl
 Command to run:
 
 ```sh
-streamlit run 'user_interface_database/main.py' --client.showSidebarNavigation false        
+# Registration Page
+streamlit run 'user_interface_database/main.py' --client.showSidebarNavigation false
+# Home Page     
 streamlit run 'user_interface_database/pages/home.py' --client.showSidebarNavigation false 
