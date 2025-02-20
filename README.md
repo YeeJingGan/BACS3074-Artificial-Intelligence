@@ -13,4 +13,5 @@ To run registration interface:
 streamlit run 'user_interface_database/main.py' --client.showSidebarNavigation false 
 
 To run home page interface:
+```sh
 streamlit run 'user_interface_database/pages/home.py' --client.showSidebarNavigation false 
